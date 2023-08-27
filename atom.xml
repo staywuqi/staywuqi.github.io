@@ -6,7 +6,7 @@
   <link href="https://staywuqi.github.io/atom.xml" rel="self"/>
   
   <link href="https://staywuqi.github.io/"/>
-  <updated>2022-10-23T14:00:00.000Z</updated>
+  <updated>2023-08-27T06:56:07.494Z</updated>
   <id>https://staywuqi.github.io/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="https://staywuqi.github.io/posts/0.html"/>
+    <id>https://staywuqi.github.io/posts/0.html</id>
+    <published>2023-08-27T06:53:31.121Z</published>
+    <updated>2023-08-27T06:56:07.494Z</updated>
+    
+    <content type="html"><![CDATA[<h1>测试笔记</h1><p><img src="D:%5Chexo-theme-Wuqi-main%5Csource%5Cassets%5Cimages%5C%E6%B5%8B%E8%AF%95%E7%AC%94%E8%AE%B0_images%5Cimage-20230827145336056.png" alt="image-20230827145336056"></p><p><img src="D:%5Chexo-theme-Wuqi-main%5Csource%5Cassets%5Cimages%5C%E6%B5%8B%E8%AF%95%E7%AC%94%E8%AE%B0_images%5Cimage-20230827145606763.png" alt="image-20230827145606763"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1&gt;测试笔记&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;D:%5Chexo-theme-Wuqi-main%5Csource%5Cassets%5Cimages%5C%E6%B5%8B%E8%AF%95%E7%AC%94%E8%AE%B0_images%5Cimage-202308</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Markdown语法与外挂标签写法汇总</title>
