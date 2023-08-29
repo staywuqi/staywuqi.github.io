@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://staywuqi.github.io/posts/0.html</loc>
+    <loc>https://staywuqi.github.io/posts/202308291040.html</loc>
     
     <lastmod>2023-08-29</lastmod>
     
@@ -11,9 +11,9 @@
   </url>
   
   <url>
-    <loc>https://staywuqi.github.io/posts/0.html</loc>
+    <loc>https://staywuqi.github.io/posts/202308281044.html</loc>
     
-    <lastmod>2023-08-27</lastmod>
+    <lastmod>2023-08-29</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://staywuqi.github.io/box/animation/index.html</loc>
+    <loc>https://staywuqi.github.io/box/gallery/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -56,7 +56,7 @@
   </url>
   
   <url>
-    <loc>https://staywuqi.github.io/box/gallery/index.html</loc>
+    <loc>https://staywuqi.github.io/box/animation/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -66,6 +66,15 @@
   
   <url>
     <loc>https://staywuqi.github.io/life/movies/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://staywuqi.github.io/site/census/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -92,33 +101,6 @@
   </url>
   
   <url>
-    <loc>https://staywuqi.github.io/personal/bb/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://staywuqi.github.io/site/time/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://staywuqi.github.io/site/census/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://staywuqi.github.io/personal/about/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
@@ -137,7 +119,7 @@
   </url>
   
   <url>
-    <loc>https://staywuqi.github.io/social/fcircle/index.html</loc>
+    <loc>https://staywuqi.github.io/site/time/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -147,6 +129,24 @@
   
   <url>
     <loc>https://staywuqi.github.io/social/link/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://staywuqi.github.io/personal/bb/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://staywuqi.github.io/social/fcircle/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -199,6 +199,13 @@
   
   <url>
     <loc>https://staywuqi.github.io/categories/%E6%BC%94%E7%A4%BA/</loc>
+    <lastmod>2023-08-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://staywuqi.github.io/categories/%E8%B7%AF%E7%94%B1/</loc>
     <lastmod>2023-08-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
