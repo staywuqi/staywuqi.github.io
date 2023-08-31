@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://staywuqi.github.io/posts/0.html</loc>
+    <lastmod>2023-08-31</lastmod>
+  </url>
+  <url>
     <loc>https://staywuqi.github.io/posts/202308300910.html</loc>
     <lastmod>2023-08-30</lastmod>
   </url>
@@ -13,11 +17,11 @@
     <lastmod>2023-08-29</lastmod>
   </url>
   <url>
-    <loc>https://staywuqi.github.io/posts/2013454d.html</loc>
+    <loc>https://staywuqi.github.io/posts/202308301353.html</loc>
     <lastmod>2022-10-23</lastmod>
   </url>
   <url>
-    <loc>https://staywuqi.github.io/posts/202308301353.html</loc>
+    <loc>https://staywuqi.github.io/posts/2013454d.html</loc>
     <lastmod>2022-10-23</lastmod>
   </url>
 </urlset> 
