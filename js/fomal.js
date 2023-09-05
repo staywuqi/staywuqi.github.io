@@ -3175,7 +3175,7 @@ if (localStorage.getItem("blogbg") != undefined) {
 } else {
   document.getElementById("defineBg").innerText = `:root{
     --default-bg: url(https://staywuqi.github.io/assets/back.jpg);
-    --darkmode-bg:url(https://staywuqi.github.io/assets/back.jpg);
+    --darkmode-bg:url(https://staywuqi.github.io/assets/back2.jpg);
     --mobileday-bg: url(https://staywuqi.github.io/assets/mobiaback.jpg);
     --mobilenight-bg: url(https://staywuqi.github.io/assets/mobiaback.jpg);
   }`;
